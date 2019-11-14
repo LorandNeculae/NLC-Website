@@ -20,7 +20,7 @@ function show() {
 }
 
 
-// reference https://www.w3schools.com
+// reference for using 'map methods': https://www.w3schools.com
 function myMap() {
   var myCenter = new google.maps.LatLng(53.308490, -6.228146);
   var mapCanvas = document.getElementById("map");
